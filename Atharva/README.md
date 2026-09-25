@@ -18,3 +18,6 @@ A simple REST API for managing hotel information using Node.js and Express.js.
 - Express.js
 - JavaScript
 
+
+##Deploy Link
+https://assignment-1-hotel-management-api-yamz.onrender.com
